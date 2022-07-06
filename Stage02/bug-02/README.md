@@ -1,6 +1,6 @@
-![Bug 02](./desafio01.png "Bug 02")
+![Bug 02](./bug02.png "Bug 02")
 
-<h1 align="center">Desafio 03 - Semântica e acessibilidade</h1>
+<h1 align="center">Desafio 02 - Bug 02</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -9,7 +9,7 @@
 
 ---
 
-<p align="justify">Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização correta dos elementos do HTML. Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele não apresenta a semântica correta. Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados.</p>
+<p align="justify">Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 02. E, novamente, a surpresa (não tão surpresa assim) vem aí...  👀  O código sofreu algumas alterações nos principais pontos abordados nessa fase e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.Topa encarar esse desafio e deixar o site com a mesma carinha de antes? 💜 Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!</p>
 <hr/>
 
 - 🚀 Link do [Notion](https://efficient-sloth-d85.notion.site/Iniciante-Corrigindo-bugs-02-300452b6901e4197b7c6fd291a280acf).<br/>
