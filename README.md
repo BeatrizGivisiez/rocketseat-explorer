@@ -16,12 +16,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo" />                                   
 </div>
 <hr/>
+ 
+### <a  href="https://github.com/BeatrizGivisiez/rocketseat-explorer/tree/master/Stage01"> Stage 01 - Fundamentos da programação WEB. </a>
+<hr/> 
 
-## Stage 01
-#### <a  href="https://github.com/BeatrizGivisiez/rocketseat-explorer/tree/master/Stage01"> Stage 01 </a>&nbsp;
-<hr/>
+### <a  href="https://github.com/BeatrizGivisiez/rocketseat-explorer/tree/main/Stage02"> Stage 02 - Conceitos HTML5 e CSS3. </a>
 
-## Stage 02
+<a href="https://rocketseat-explorer.vercel.app/"> 🚀 Desafio 1 - Corrigindo bugs 01 </a>&nbsp; </br>
+<a href="https://rocketseat-explorer-bug02.vercel.app/"> 🚀 Desafio 2 - Corrigindo bugs 02 </a>&nbsp; </br>
+<a href="https://rocketseat-explorer-bug02.vercel.app/"> 🚀  Desafio 3 - Semântica e acessibilidade  </a>&nbsp; </br>
+<a href="https://rocketseat-explorer-stage2-desafio.vercel.app/"> 🚀 Desafio 4 - Recriando layout</a>&nbsp; </br>
 <hr/>
 
 ## Stage 03

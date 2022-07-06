@@ -55,55 +55,25 @@
 - [ ] Saber a diferença entre margin e padding;
 - [ ] Aplicar background em botões e posicionamento;
 - [ ] Entender a função `linear-gradient()`;
+<hr>
 
-# 👉 Documentos do stage:
+# 👉 Utilitários
 
-## Links:
+### Navegador: [Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
+### Navegador Opcional: [Momentum Dash](https://momentumdash.com/)
+### Editor de código: [Visual Studio Code](https://code.visualstudio.com/)
+### Ferramentas: [CodePen](https://codepen.io/your-work) | [Imgur](https://imgur.com/) | [CSS Gradient](https://cssgradient.io/) | [DevTools](https://developer.chrome.com/docs/devtools/)
+<hr>
 
-### Navegadores
+# 🚀 Desafios
 
-[Baixe o Navegador da Web do Microsoft Edge | Microsoft](https://www.microsoft.com/pt-br/edge)
+<a href="https://rocketseat-explorer.vercel.app/"> 🚀 Desafio 1 - Corrigindo bugs 01 </a> | [Notion](https://efficient-sloth-d85.notion.site/Iniciante-Corrigindo-bugs-01-b448368a774c4badae1964ab414f5272) </br> 
+<a href="https://rocketseat-explorer-bug02.vercel.app/"> 🚀 Desafio 2 - Corrigindo bugs 02 </a> | [Notion](https://efficient-sloth-d85.notion.site/Iniciante-Corrigindo-bugs-02-300452b6901e4197b7c6fd291a280acf) </br>
+<a href="https://rocketseat-explorer-bug02.vercel.app/"> 🚀  Desafio 3 - Semântica e acessibilidade  </a> | [Notion](https://efficient-sloth-d85.notion.site/Intermedi-rio-Sem-ntica-e-acessibilidade-849b1ec224c349e3854a20aed395a45f)</br>
+<a href="https://rocketseat-explorer-stage2-desafio.vercel.app/"> 🚀 Desafio 4 - Recriando layout</a> | [Notion](https://efficient-sloth-d85.notion.site/Desafio-avan-ado-Recriando-layout-17338681d78c439aa64ac9474d7c6d92) </br>
 
-[Navegador da Web Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
-
-### Opcional
-
-[Momentum Dash](https://momentumdash.com/)
-
-### Editor de código
-
-[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
-
-### Figma - Projeto 01
-
-[Explorer - Stage 01](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01/duplicate)
-
-### Resultado final - Projeto 01
-
-[Móveis customizados](https://explorer-stage02-p01.vercel.app/)
-
-### Ferramentas
-
-[CodePen](https://codepen.io/your-work)
-
-[Imgur](https://imgur.com/)
-
-### Figma - Projeto 02
-
-[Explorer - Stage 03](https://www.figma.com/file/9e8oZ7kkjIt5rkNgz9MPtk/Explorer---Stage-03/duplicate)
-
-[Chrome DevTools - Chrome Developers](https://developer.chrome.com/docs/devtools/)
-
-[Microsoft Edge DevTools documentation - Microsoft Edge Development](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/)
-
-[CSS Gradient - Generator, Maker, and Background](https://cssgradient.io/)
-
-### Resultado final - Projeto 02
-
-[Treine me](https://explorer-stage-02-02.vercel.app/)
-
+<hr>
 <h2 align="center">Usei neste Stage 2 👇</h2>
-
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -111,7 +81,8 @@
  
 </div>
 
-___
+---
+
 ## Contato
 
 <img align="left" src="https://avatars.githubusercontent.com/BeatrizGivisiez?size=100">
